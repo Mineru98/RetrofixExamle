@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='RxKotlinExam'
+rootProject.name='RetrofixExam'
